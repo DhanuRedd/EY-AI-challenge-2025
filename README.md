@@ -1,9 +1,9 @@
 # EY AI 2025 Data science challenge :  XG Boost model building
 
 Some important file links:
-Buildings foot print cleaned data: https://drive.google.com/file/d/14wUbC5S1K32DoLNh82BjvOWu43dUAgza/view?usp=sharing
-Landsat saved Geotiff file: https://drive.google.com/file/d/1UKlSCU4W6EzxDrWprpMjnSoRyz2ldHoc/view?usp=sharing
-Sentinel saved Geotiff file: https://drive.google.com/file/d/1o_P9hPkRYiaKAHfW5vNssWY2WJdgUu22/view?usp=sharing
+1. Buildings foot print cleaned data: https://drive.google.com/file/d/14wUbC5S1K32DoLNh82BjvOWu43dUAgza/view?usp=sharing
+2. Landsat saved Geotiff file: https://drive.google.com/file/d/1UKlSCU4W6EzxDrWprpMjnSoRyz2ldHoc/view?usp=sharing
+3. Sentinel saved Geotiff file: https://drive.google.com/file/d/1o_P9hPkRYiaKAHfW5vNssWY2WJdgUu22/view?usp=sharing
 
 ## About the Challenge:
 
